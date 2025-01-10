@@ -1,0 +1,17 @@
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\bin\Debug\net8.0\Service.deps.json
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\bin\Debug\net8.0\Service.dll
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\bin\Debug\net8.0\Service.pdb
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\bin\Debug\net8.0\Data.dll
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\bin\Debug\net8.0\Infrastructure.dll
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\bin\Debug\net8.0\Data.pdb
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\bin\Debug\net8.0\Infrastructure.pdb
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\Service.dll
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\refint\Service.dll
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\Service.pdb
+D:\SchoolMangmentSystem\SchoolSystemSolution\Service\obj\Debug\net8.0\ref\Service.dll

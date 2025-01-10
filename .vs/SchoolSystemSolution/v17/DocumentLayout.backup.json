@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE60CE7-32F0-4E75-A617-B4123710BA56}|SchoolSystem\\SchoolSystem.csproj|d:\\schoolmangmentsystem\\schoolsystemsolution\\schoolsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE60CE7-32F0-4E75-A617-B4123710BA56}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030830AD-B11E-4175-8CCA-FF98A6CDB910}|Data\\Data.csproj|d:\\schoolmangmentsystem\\schoolsystemsolution\\data\\appmetadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030830AD-B11E-4175-8CCA-FF98A6CDB910}|Data\\Data.csproj|solutionrelative:data\\appmetadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030830AD-B11E-4175-8CCA-FF98A6CDB910}|Data\\Data.csproj|d:\\schoolmangmentsystem\\schoolsystemsolution\\data\\entities\\procedure\\departmentstudentcountproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030830AD-B11E-4175-8CCA-FF98A6CDB910}|Data\\Data.csproj|solutionrelative:data\\entities\\procedure\\departmentstudentcountproc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|d:\\schoolmangmentsystem\\schoolsystemsolution\\core\\mapping\\departments\\queriesmapping\\getdepartmentstudentcountbyidmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|solutionrelative:core\\mapping\\departments\\queriesmapping\\getdepartmentstudentcountbyidmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|d:\\schoolmangmentsystem\\schoolsystemsolution\\core\\features\\department\\queries\\handlers\\departmentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|solutionrelative:core\\features\\department\\queries\\handlers\\departmentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|d:\\schoolmangmentsystem\\schoolsystemsolution\\core\\features\\department\\queries\\models\\getdepartmentstudentcountbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|solutionrelative:core\\features\\department\\queries\\models\\getdepartmentstudentcountbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|d:\\schoolmangmentsystem\\schoolsystemsolution\\core\\features\\department\\queries\\results\\getdepartmentstudentcountbyidresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|solutionrelative:core\\features\\department\\queries\\results\\getdepartmentstudentcountbyidresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|d:\\schoolmangmentsystem\\schoolsystemsolution\\core\\mapping\\departments\\queriesmapping\\getdepartmentstudentcountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|solutionrelative:core\\mapping\\departments\\queriesmapping\\getdepartmentstudentcountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|d:\\schoolmangmentsystem\\schoolsystemsolution\\core\\features\\department\\queries\\results\\getdepartmentstudentlistcountresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC81B1F3-AC37-4E57-BED9-74168F249278}|Core\\Core.csproj|solutionrelative:core\\features\\department\\queries\\results\\getdepartmentstudentlistcountresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 476,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Router.cs",
+              "DocumentMoniker": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Data\\AppMetaData\\Router.cs",
+              "RelativeDocumentMoniker": "Data\\AppMetaData\\Router.cs",
+              "ToolTip": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Data\\AppMetaData\\Router.cs",
+              "RelativeToolTip": "Data\\AppMetaData\\Router.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vx0AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:13:15.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\SchoolSystem\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\SchoolSystem\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "SchoolSystem\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:13:00.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentStudentCountProc.cs",
+              "DocumentMoniker": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Data\\Entities\\Procedure\\DepartmentStudentCountProc.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Procedure\\DepartmentStudentCountProc.cs",
+              "ToolTip": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Data\\Entities\\Procedure\\DepartmentStudentCountProc.cs",
+              "RelativeToolTip": "Data\\Entities\\Procedure\\DepartmentStudentCountProc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:11:51.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetDepartmentStudentCountByIdMapping.cs",
+              "DocumentMoniker": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Mapping\\Departments\\QueriesMapping\\GetDepartmentStudentCountByIdMapping.cs",
+              "RelativeDocumentMoniker": "Core\\Mapping\\Departments\\QueriesMapping\\GetDepartmentStudentCountByIdMapping.cs",
+              "ToolTip": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Mapping\\Departments\\QueriesMapping\\GetDepartmentStudentCountByIdMapping.cs",
+              "RelativeToolTip": "Core\\Mapping\\Departments\\QueriesMapping\\GetDepartmentStudentCountByIdMapping.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:08:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetDepartmentStudentCountByIDResult.cs",
+              "DocumentMoniker": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Features\\Department\\Queries\\Results\\GetDepartmentStudentCountByIDResult.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Department\\Queries\\Results\\GetDepartmentStudentCountByIDResult.cs",
+              "ToolTip": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Features\\Department\\Queries\\Results\\GetDepartmentStudentCountByIDResult.cs",
+              "RelativeToolTip": "Core\\Features\\Department\\Queries\\Results\\GetDepartmentStudentCountByIDResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:03:59.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetDepartmentStudentCountByIDQuery.cs",
+              "DocumentMoniker": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Features\\Department\\Queries\\Models\\GetDepartmentStudentCountByIDQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Department\\Queries\\Models\\GetDepartmentStudentCountByIDQuery.cs",
+              "ToolTip": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Features\\Department\\Queries\\Models\\GetDepartmentStudentCountByIDQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Department\\Queries\\Models\\GetDepartmentStudentCountByIDQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:04:19.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentQueryHandler.cs",
+              "DocumentMoniker": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Features\\Department\\Queries\\Handlers\\DepartmentQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Department\\Queries\\Handlers\\DepartmentQueryHandler.cs",
+              "ToolTip": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Features\\Department\\Queries\\Handlers\\DepartmentQueryHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Department\\Queries\\Handlers\\DepartmentQueryHandler.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:05:12.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetDepartmentStudentCountMapping.cs",
+              "DocumentMoniker": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Mapping\\Departments\\QueriesMapping\\GetDepartmentStudentCountMapping.cs",
+              "RelativeDocumentMoniker": "Core\\Mapping\\Departments\\QueriesMapping\\GetDepartmentStudentCountMapping.cs",
+              "ToolTip": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Mapping\\Departments\\QueriesMapping\\GetDepartmentStudentCountMapping.cs",
+              "RelativeToolTip": "Core\\Mapping\\Departments\\QueriesMapping\\GetDepartmentStudentCountMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:08:19.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetDepartmentStudentListCountResults.cs",
+              "DocumentMoniker": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Features\\Department\\Queries\\Results\\GetDepartmentStudentListCountResults.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Department\\Queries\\Results\\GetDepartmentStudentListCountResults.cs",
+              "ToolTip": "D:\\SchoolMangmentSystem\\SchoolSystemSolution\\Core\\Features\\Department\\Queries\\Results\\GetDepartmentStudentListCountResults.cs",
+              "RelativeToolTip": "Core\\Features\\Department\\Queries\\Results\\GetDepartmentStudentListCountResults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:03:42.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 181,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

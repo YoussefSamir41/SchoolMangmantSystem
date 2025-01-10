@@ -1,0 +1,13 @@
+﻿using AutoMapper;
+using Core.Features.ApplicationUser.Queries.Result;
+using Data.Entities.Sec;
+namespace Core.Mapping.ApplicationUser
+{
+    public partial class ApplicationUserProfile : Profile
+    {
+        public void GetUsersPaginatedMapping()
+        {
+            CreateMap<User, GetUserPaginationResponse>();
+        }
+    }
+}
